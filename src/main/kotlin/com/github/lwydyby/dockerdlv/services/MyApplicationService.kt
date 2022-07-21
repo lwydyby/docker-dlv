@@ -1,6 +1,6 @@
-package org.jetbrains.plugins.template.services
+package com.github.lwydyby.dockerdlv.services
 
-import org.jetbrains.plugins.template.MyBundle
+import com.github.lwydyby.dockerdlv.MyBundle
 
 class MyApplicationService {
 
